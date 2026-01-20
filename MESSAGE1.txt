@@ -1,0 +1,2 @@
+This is a message sent on GitHub by Turbowarp, using the Fetch extension.
+Message filename: MESSAGE1.txt
